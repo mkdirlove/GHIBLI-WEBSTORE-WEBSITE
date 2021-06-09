@@ -1,5 +1,5 @@
 <CENTER>
-<img src="https://raw.githubusercontent.com/mkdirlove/GHIBLI-WEBSTORE/main/static/img/ghibli.jpg">
+<img src="https://raw.githubusercontent.com/mkdirlove/GHIBLI-WEBSTORE/main/static/img/ghibli.jpg" height="250px" width="250px">
 </CENTER>
 # GHIBLI-WEBSTORE
 Our final project in Web Systems and Technology
