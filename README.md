@@ -1,12 +1,12 @@
 <CENTER>
-<img src="https://raw.githubusercontent.com/mkdirlove/GHIBLI-WEBSTORE/main/static/img/ghibli.jpg" height="250px" width="250px">
+<img src="https://raw.githubusercontent.com/mkdirlove/GHIBLI-WEBSTORE/main/static/img/logo.jpg" height="300px" width="500px">
 </CENTER>
 # GHIBLI-WEBSTORE
 
       Our final project in Web Systems and Technology 
 
       Frontend - HTML, CSS, JS
-      Backend - Python, Flask Framework
+      Backend - Python, Flask Framework, Sqlite
 
 # INSTALLATION & USAGE
 
