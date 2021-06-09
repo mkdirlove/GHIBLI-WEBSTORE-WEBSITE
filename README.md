@@ -6,12 +6,13 @@ Our final project in Web Systems and Technology
 
 # TECHNOLOGY USED
 
-    HTML
-    CSS
-    Bootstrap
-    Python
-    Flask
-    SQLite
+* HTML
+* CSS
+* Bootstrap
+* JavaScript
+* Python
+* Flask
+* SQLite
 
 # INSTALLATION & USAGE
 
