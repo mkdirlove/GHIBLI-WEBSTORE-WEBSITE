@@ -11,3 +11,6 @@ Our final project in Web Systems and Technology
       $ python3 -m pip install -r requirements.txt
       $ python3 server.py
       
+# PREVIEW
+
+![GHIBLI WEBSTORE](https://raw.githubusercontent.com/mkdirlove/GHIBLI-WEBSTORE/main/ghibli.png)
