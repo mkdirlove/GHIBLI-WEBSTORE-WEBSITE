@@ -1,6 +1,4 @@
-<CENTER>
-<img src="https://raw.githubusercontent.com/mkdirlove/GHIBLI-WEBSTORE/main/static/img/logo.jpg" height="300px" width="500px">
-</CENTER>
+<img src="https://raw.githubusercontent.com/mkdirlove/GHIBLI-WEBSTORE/main/static/img/logo.jpg" height="400px" width="700px">
 # GHIBLI-WEBSTORE
 
       Our final project in Web Systems and Technology 
