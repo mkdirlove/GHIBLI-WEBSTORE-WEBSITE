@@ -2,10 +2,16 @@
 
 # GHIBLI-WEBSTORE
 
-      Our final project in Web Systems and Technology 
+Our final project in Web Systems and Technology 
 
-      Frontend - HTML, CSS, JS
-      Backend - Python, Flask Framework, Sqlite
+# TECHNOLOGY USED
+
+    HTML
+    CSS
+    Bootstrap
+    Python
+    Flask
+    SQLite
 
 # INSTALLATION & USAGE
 
