@@ -258,6 +258,3 @@ def cart():
             totItems += shoppingCart[i]["SUM(qty)"]
     # Render shopping cart
     return render_template("cart.html", shoppingCart=shoppingCart, shopLen=shopLen, total=total, totItems=totItems, display=display, session=session)
-
-if __name__ == "__main__":
-    app.run(debug=False,host='0.0.0.0')
