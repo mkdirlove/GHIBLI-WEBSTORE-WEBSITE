@@ -94,6 +94,21 @@ Our final project in Web Systems and Technology
       $ python3 -m pip install -r requirements.txt
       $ python3 server.py
       
+      Navigate to  http://127.0.0.1:5000 to open the web app or if you want to share it to your friends you can use Ngrok for pory forwarding.
+      
+      
+# NGROK DOWNLOAD
+      
+      Linux machine:
+		
+		$ wget https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-linux-amd64.zip
+		$ unzip ngrok-stable-linux-amd64.zip
+		$ ./ngrok http 5000
+      
+      Windows machine:
+      		
+		https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-windows-amd64.zip
+      
 # PREVIEW
 
 ![GHIBLI WEBSTORE](https://raw.githubusercontent.com/mkdirlove/GHIBLI-WEBSTORE/main/ghibli.png)
