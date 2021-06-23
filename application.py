@@ -14,7 +14,6 @@ Session(app)
 # Creates a connection to the database
 db = SQL ( "sqlite:///data.db" )
 
-
 @app.route("/")
 def index():
     shirts = db.execute("SELECT * FROM ghibli_webstore ORDER BY onSalePrice")
@@ -33,7 +32,6 @@ def index():
         shirtsLen = len(shirts)
         return render_template ("index.html", shoppingCart=shoppingCart, shirts=shirts, shopLen=shopLen, shirtsLen=shirtsLen, total=total, totItems=totItems, display=display, session=session )
     return render_template ( "index.html", shirts=shirts, shoppingCart=shoppingCart, shirtsLen=shirtsLen, shopLen=shopLen, total=total, totItems=totItems, display=display)
-
 
 @app.route("/buy/")
 def buy():
@@ -70,7 +68,6 @@ def buy():
         # Go back to home page
         return render_template ("index.html", shoppingCart=shoppingCart, shirts=shirts, shopLen=shopLen, shirtsLen=shirtsLen, total=total, totItems=totItems, display=display, session=session )
 
-
 @app.route("/update/")
 def update():
     # Initialize shopping cart variables
@@ -103,7 +100,6 @@ def update():
             totItems += shoppingCart[i]["SUM(qty)"]
         # Go back to cart page
         return render_template ("cart.html", shoppingCart=shoppingCart, shopLen=shopLen, total=total, totItems=totItems, display=display, session=session )
-
 
 @app.route("/filter/")
 def filter():
@@ -139,7 +135,6 @@ def filter():
     # Render filtered view
     return render_template ( "index.html", shirts=shirts, shoppingCart=shoppingCart, shirtsLen=shirtsLen, shopLen=shopLen, total=total, totItems=totItems, display=display)
 
-
 @app.route("/checkout/")
 def checkout():
     order = db.execute("SELECT * from cart")
@@ -153,7 +148,6 @@ def checkout():
     totItems, total, display = 0, 0, 0
     # Redirect to home page
     return redirect('/')
-
 
 @app.route("/remove/", methods=["GET"])
 def remove():
@@ -174,17 +168,14 @@ def remove():
     # Render shopping cart
     return render_template ("cart.html", shoppingCart=shoppingCart, shopLen=shopLen, total=total, totItems=totItems, display=display, session=session )
 
-
 @app.route("/login/", methods=["GET"])
 def login():
     return render_template("login.html")
-
 
 @app.route("/new/", methods=["GET"])
 def new():
     # Render log in page
     return render_template("new.html")
-
 
 @app.route("/logged/", methods=["POST"] )
 def logged():
@@ -231,7 +222,6 @@ def logout():
     # Redirect user to login form
     return redirect("/")
 
-
 @app.route("/register/", methods=["POST"] )
 def registration():
     # Get info from form
@@ -241,17 +231,18 @@ def registration():
     fname = request.form["fname"]
     lname = request.form["lname"]
     email = request.form["email"]
+    addr = request.form["addr"]
+    contact_no = request.form["contact_no"]
     # See if username already in the database
     rows = db.execute( "SELECT * FROM users WHERE username = :username ", username = username )
     # If username already exists, alert user
     if len( rows ) > 0:
         return render_template ( "new.html", msg="Username already exists!" )
     # If new user, upload his/her info into the users database
-    new = db.execute ( "INSERT INTO users (username, password, fname, lname, email) VALUES (:username, :password, :fname, :lname, :email)",
-                    username=username, password=password, fname=fname, lname=lname, email=email )
+    new = db.execute ( "INSERT INTO users (username, password, fname, lname, email, addr, contact_no) VALUES (:username, :password, :fname, :lname, :email, :addr, :contact_no)",
+                    username=username, password=password, fname=fname, lname=lname, email=email, addr=addr, contact_no=contact_no )
     # Render login template
     return render_template ( "login.html" )
-
 
 @app.route("/cart/")
 def cart():
@@ -267,5 +258,3 @@ def cart():
             totItems += shoppingCart[i]["SUM(qty)"]
     # Render shopping cart
     return render_template("cart.html", shoppingCart=shoppingCart, shopLen=shopLen, total=total, totItems=totItems, display=display, session=session)
-
-
