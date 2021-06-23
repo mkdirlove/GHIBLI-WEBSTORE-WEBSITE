@@ -1,0 +1,160 @@
+/* line 3, ../sass/style.scss */
+.clearfix:after,
+.clearfix:before {
+  content: " ";
+  display: table;
+}
+
+/* line 9, ../sass/style.scss */
+.clearfix:after {
+  clear: both;
+}
+
+/* line 13, ../sass/style.scss */
+.container {
+  width: 1170px;
+  margin: 0 auto;
+}
+
+/* line 17, ../sass/style.scss */
+ul {
+  padding: 0;
+  list-style-type: none;
+}
+
+/* line 21, ../sass/style.scss */
+input, textarea, a {
+  outline: none;
+}
+
+/* line 23, ../sass/style.scss */
+body {
+  font-family: "Open Sans";
+  background-color: gray;
+}
+/* line 32, ../sass/style.scss */
+body .page {
+  width: 85%;
+  background-color: white;
+  margin: 70px auto 0;
+  margin-bottom: 70px;
+}
+/* line 37, ../sass/style.scss */
+body .page .bio {
+  margin: 0 auto;
+  width: 85%;
+  height: 294px;
+}
+/* line 42, ../sass/style.scss */
+body .page .bio .upline {
+  height: 10px;
+}
+/* line 47, ../sass/style.scss */
+body .page .bio .bio-side {
+  display: block;
+  border-style: inset;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  border-color: #ddd;
+  border-width: 2px;
+  height: 280px;
+}
+/* line 56, ../sass/style.scss */
+body .page .bio .bio-side .img-side {
+  float: left;
+  margin-top: 60px;
+  border-width: 2px;
+  width: 150px;
+  height: 150px;
+  border-width: 2px;
+  border-style: groove;
+}
+/* line 66, ../sass/style.scss */
+body .page .bio .bio-side .img-side img {
+  padding: 5px;
+  height: 140px;
+}
+/* line 72, ../sass/style.scss */
+body .page .bio .bio-side .text-side {
+  float: left;
+  width: 35%;
+  padding-top: 110px;
+  padding-left: 20px;
+}
+/* line 78, ../sass/style.scss */
+body .page .bio .bio-side .text-side .name {
+  font-size: 32px;
+  color: #666;
+  font-weight: 500;
+}
+/* line 84, ../sass/style.scss */
+body .page .bio .bio-side .text-side .work {
+  padding-top: 10px;
+  font-size: 24px;
+  color: #888;
+  font-weight: 500;
+}
+/* line 92, ../sass/style.scss */
+body .page .bio .bio-side .connect-side {
+  height: 100%;
+  width: 30%;
+  float: right;
+  text-align: right;
+  margin: 0 auto;
+}
+/* line 99, ../sass/style.scss */
+body .page .bio .bio-side .connect-side .connect-img-box {
+  padding-top: 60px;
+  display: block;
+  width: 250px;
+}
+/* line 104, ../sass/style.scss */
+body .page .bio .bio-side .connect-side .connect-img-box .connect-images {
+  padding-left: 15px;
+  float: left;
+}
+/* line 108, ../sass/style.scss */
+body .page .bio .bio-side .connect-side .connect-img-box .connect-images img {
+  height: 40px;
+  width: 40px;
+  background-color: black;
+}
+/* line 116, ../sass/style.scss */
+body .page .bio .bio-side .connect-side .connect-text-box {
+  height: 100%;
+  width: 100%;
+  text-align: left;
+  padding-top: 15px;
+  color: #666;
+  margin: 0 auto;
+}
+/* line 130, ../sass/style.scss */
+body .page .profile {
+  width: 85%;
+  margin: 0 auto;
+  display: block;
+  height: 183px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  border-style: inset;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  border-color: #ddd;
+  border-width: 2px;
+}
+/* line 143, ../sass/style.scss */
+body .page .profile .profile-title {
+  float: left;
+  width: 30%;
+  font-size: 30px;
+  text-align: center;
+  color: #aaa;
+  height: 100%;
+}
+/* line 151, ../sass/style.scss */
+body .page .profile .profile-text {
+  font-size: 16px;
+  color: #444;
+}
