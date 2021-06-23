@@ -1,0 +1,61 @@
+
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta content="text/html;charset=utf-8" http-equiv="Content-Type">
+        <meta content="utf-8" http-equiv="encoding">
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <meta name="theme-color" content="#000000">
+        <link rel="shortcut icon" href="%PUBLIC_URL%/favicon.ico">
+        <link rel="stylesheet" href="static/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+        <link href="{{ url_for('static',filename='css/custom.css') }}" rel="stylesheet" type="text/css" />
+        <script defer src="static/js/all.js"></script>
+        <script src="static/js/jquery-1.11.0.min.js"></script>
+
+        <title>Ghibli Webstore - Register</title>
+    </head>
+    <body>
+        <header>
+            <nav class="navbar fixed-top navbar-dark bg-dark navbar-expand-sm box-shadow">
+              <a href="/" class="navbar-brand d-flex align-items-center">
+              </a>
+            </nav>
+        </header><br />
+        <main>
+		<center>
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm">
+                        <h style="font-size:40px; color: black;">Ghibli Webstore Registration</h>
+                        <br /> <br /> <br />
+                        <form action="/register/" class="form" method="post">
+                            <input type="text" name="username" id="username" placeholder="Username" required > <span id="user-msg" class="alert alert-danger"></span> <input type="email" name="email" id="email" placeholder="Email" required> <span id="email-msg" class="alert alert-danger"></span><br /><br />
+                            
+                            <input type="password" name="password" id="password" placeholder="Password" required > <span id="password-msg" class="alert alert-danger"></span> <input type="password" name="confirm" id="confirm" placeholder="Confirm Password" required> <span id="confirm-msg" class="alert alert-danger"></span><br /><br />
+                                                        
+                            <input type="text" name="fname" id="fname" placeholder="First Name" required> <span id="fname-msg" class="alert alert-danger"></span> <input type="text" name="lname" id="lname" placeholder="Last Name" required> <span id="lname-msg" class="alert alert-danger"></span><br /><br />  
+					
+                           	<input type="contact_no" name="contact_no" id="contact_no" placeholder="Phone" required> <span id="contact_no-msg" class="alert alert-danger"></span> <input type="addr" name="addr" id="addr" placeholder="Address" required> <span id="addr-msg" class="alert alert-danger"></span><br /><br />
+                           								
+							<button type="reset" class="btn btn-secondary"> Clear All </button>
+                            <button type="submit" id="submit" class="btn btn-primary"> Register </button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </center>
+        </main>
+    <!-- Custom JS Scripts -->
+        <script src="{{ url_for('static',filename='js/validate.js') }}"></script>
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <hr />
+        <center>
+        <footer> © Ghibli Webstore </footer> 
+        </center>
+    </body>
+</html>

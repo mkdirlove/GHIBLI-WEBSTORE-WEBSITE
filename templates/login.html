@@ -1,0 +1,78 @@
+    <!DOCTYPE html>   
+    <html>   
+    <head>  
+    <meta name="viewport" content="width=device-width, initial-scale=1">  
+    <title> Ghibli Webstore - Login </title>  
+    <style>   
+    body {  
+      font-family: Calibri, Helvetica, sans-serif;  
+      background-image: url("/static/img/bg3.jpg");
+      height: 100%; 
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover; 
+    }  
+    button {   
+           background-color: black;   
+           width: 100%;  
+            color: white;   
+            padding: 15px;   
+            margin: 10px 0px;   
+            border: none;   
+            cursor: pointer;   
+             }   
+ 
+     input[type=text], input[type=password] {   
+            width: 100%;   
+            margin: 8px 0;  
+            padding: 12px 20px;   
+            display: inline-block;      
+            box-sizing: border-box;   
+        }  
+     button:hover {   
+            opacity: 0.7;   
+        }   
+      .cancelbtn {   
+            width: auto;   
+            padding: 10px 18px;  
+            margin: 10px 5px;  
+        }   
+            
+         
+     .container {   
+            padding: 25px;   
+            background-color: white;  
+        }   
+    </style>   
+    </head>    
+    <body>   
+        <center> <h1> Ghibli Webstore Login </h1> </center>
+    	<main>   
+        <form  action="/logged/" class="form" method="post">  
+        <p>{{ msg }}</p>
+            <div class="container">   
+                <label>Username : </label>   
+                <input type="text" placeholder="Enter Username" name="username" required>  
+                <label>Password : </label>   
+                <input type="password" placeholder="Enter Password" name="password" required>  
+                <button type="submit">Login</button> 
+            </div>
+            
+        </form>  
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <hr />
+        <center>
+        <footer> © Ghibli Webstore </footer> 
+        </center>
+        </main>  
+    </body>     
+    </html>  
