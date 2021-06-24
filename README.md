@@ -90,7 +90,8 @@ Live demo: https://mkdirlove-ghibli-webstore.zeet.app/
       $ python3 -m pip install -r requirements.txt
       $ python3 server.py
       
-      Navigate to  http://127.0.0.1:5000 to open the web app or if you want to share it to your friends you can use Ngrok for port forwarding.
+      Navigate to  http://127.0.0.1:5000 to open the web app.
+      If you want to share it to your friends you can use Ngrok for port forwarding.
       
       
 # NGROK DOWNLOAD
@@ -100,6 +101,7 @@ Live demo: https://mkdirlove-ghibli-webstore.zeet.app/
 		$ wget https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-linux-amd64.zip
 		$ unzip ngrok-stable-linux-amd64.zip
 		$ ./ngrok http 5000
+      
       
       Windows machine:
       		
