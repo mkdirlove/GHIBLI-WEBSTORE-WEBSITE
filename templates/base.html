@@ -52,8 +52,8 @@
                         <td><img src="/static/img/{{ shoppingCart[i]["image"] }}" width="30px" alt="{{ shoppingCart[i]["samplename"] }}" /></td>
                         <td>{{ shoppingCart[i]["samplename"] }}</td>
                         <td>{{ shoppingCart[i]['SUM(qty)'] }}</td>
-                        <td>{{ '${:,.2f}'.format(shoppingCart[i]["price"]) }}</td>
-                        <td>{{ '${:,.2f}'.format(shoppingCart[i]['SUM(subTotal)']) }}</td>
+                        <td>{{ '₱{:,.2f}'.format(shoppingCart[i]["price"]) }}</td>
+                        <td>{{ '₱{:,.2f}'.format(shoppingCart[i]['SUM(subTotal)']) }}</td>
                         <td>
                           <form action="/remove/" methods="GET">
                             <input type="hidden" name="id" value="{{ shoppingCart[i]["id"] }}" />
@@ -65,7 +65,7 @@
                     {% endfor %}
                     <tfoot>
                       <tr>
-                        <td colSpan="7">Total: {{ '${:,.2f}'.format(total) }}<br /><br />
+                        <td colSpan="7">Total: {{ '₱{:,.2f}'.format(total) }}<br /><br />
                           <div class="modal-footer">
                             <a href="/cart/"><button type="button" class="btn btn-primary checkout">Make Changes</button></a>
                             <button type="button" class="btn btn-primary checkout" data-dismiss="modal">Continue Shopping</button>
@@ -133,7 +133,7 @@
           <span class="glyphicon glyphicon-shopping-cart" data-toggle="modal" data-target="">
             <i class="fas fa-shopping-cart"></i>
             <span class="counter">No. of Items: {{ totItems }}</span>
-            <span class="counter">Total: ${{ '{:,.2f}'.format(total) }}</span>
+            <span class="counter">Total: ₱{{ '{:,.2f}'.format(total) }}</span>
           </span>
         </button>
       </div>
