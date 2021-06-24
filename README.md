@@ -114,12 +114,24 @@ Our final project in Web Systems and Technology
 ![GHIBLI WEBSTORE](https://raw.githubusercontent.com/mkdirlove/GHIBLI-WEBSTORE/main/home.png)
 
 
+
 # LOGIN FORM
 
 ![GHIBLI WEBSTORE](https://raw.githubusercontent.com/mkdirlove/GHIBLI-WEBSTORE/main/login.png)
+
 
 
 # REGISTRATION FORM
 
 ![GHIBLI WEBSTORE](https://raw.githubusercontent.com/mkdirlove/GHIBLI-WEBSTORE/main/reg.png)
 
+
+
+# CART
+
+![GHIBLI WEBSTORE](https://raw.githubusercontent.com/mkdirlove/GHIBLI-WEBSTORE/main/cart.png)
+
+
+
+# PURCHASE HISTORY
+![GHIBLI WEBSTORE](https://raw.githubusercontent.com/mkdirlove/GHIBLI-WEBSTORE/main/reg.png)
