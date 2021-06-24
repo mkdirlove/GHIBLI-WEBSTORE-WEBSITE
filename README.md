@@ -4,6 +4,8 @@
 
 Our final project in Web Systems and Technology 
 
+Live demo: https://mkdirlove-ghibli-webstore.zeet.app/
+
 # GROUP MEMBERS
 	
 	[*] Abby De Guia
