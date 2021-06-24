@@ -8,11 +8,11 @@ Live demo: https://mkdirlove-ghibli-webstore.zeet.app/
 
 # GROUP MEMBERS
 	
-	[*] Abby De Guia
-	[*] Jayson San Buenaventura
-	[*] John Maynard Elec
-	[*] Jasper Cedrick Lorenzo
-	[*] Leomar Mangubat
+	- [x] Abby De Guia
+	- [x] Jayson San Buenaventura
+	- [x] John Maynard Elec
+	- [x] Jasper Cedrick Lorenzo
+	- [x] Leomar Mangubat
       
 # FILES STRUCTURE
 
