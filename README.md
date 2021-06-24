@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/mkdirlove/GHIBLI-WEBSTORE/main/static/img/logo.jpg" height="400px" width="900px">
+<img src="https://raw.githubusercontent.com/mkdirlove/GHIBLI-WEBSTORE/main/static/img/logo.gif" height="400px" width="900px">
 
 # GHIBLI-WEBSTORE
 
