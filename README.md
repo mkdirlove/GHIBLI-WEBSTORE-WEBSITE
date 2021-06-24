@@ -109,6 +109,17 @@ Our final project in Web Systems and Technology
       		
 		https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-windows-amd64.zip
       
-# PREVIEW
+# HOMEPAGE
 
-![GHIBLI WEBSTORE](https://raw.githubusercontent.com/mkdirlove/GHIBLI-WEBSTORE/main/ghibli.png)
+![GHIBLI WEBSTORE](https://raw.githubusercontent.com/mkdirlove/GHIBLI-WEBSTORE/main/home.png)
+
+
+# LOGIN FORM
+
+![GHIBLI WEBSTORE](https://raw.githubusercontent.com/mkdirlove/GHIBLI-WEBSTORE/main/login.png)
+
+
+# REGISTRATION FORM
+
+![GHIBLI WEBSTORE](https://raw.githubusercontent.com/mkdirlove/GHIBLI-WEBSTORE/main/reg.png)
+
