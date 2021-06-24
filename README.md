@@ -94,7 +94,7 @@ Our final project in Web Systems and Technology
       $ python3 -m pip install -r requirements.txt
       $ python3 server.py
       
-      Navigate to  http://127.0.0.1:5000 to open the web app or if you want to share it to your friends you can use Ngrok for pory forwarding.
+      Navigate to  http://127.0.0.1:5000 to open the web app or if you want to share it to your friends you can use Ngrok for port forwarding.
       
       
 # NGROK DOWNLOAD
