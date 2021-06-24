@@ -127,11 +127,11 @@ Our final project in Web Systems and Technology
 
 
 
-# CART
+# MODAL CART
 
 ![GHIBLI WEBSTORE](https://raw.githubusercontent.com/mkdirlove/GHIBLI-WEBSTORE/main/cart.png)
 
 
 
 # PURCHASE HISTORY
-![GHIBLI WEBSTORE](https://raw.githubusercontent.com/mkdirlove/GHIBLI-WEBSTORE/main/reg.png)
+![GHIBLI WEBSTORE](https://raw.githubusercontent.com/mkdirlove/GHIBLI-WEBSTORE/main/history.png)
