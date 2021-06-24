@@ -108,7 +108,7 @@ Live demo: https://mkdirlove-ghibli-webstore.zeet.app/
       		
 		https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-windows-amd64.zip
  
- 
+<!-- 
 # HOMEPAGE
 
 ![GHIBLI WEBSTORE](https://raw.githubusercontent.com/mkdirlove/GHIBLI-WEBSTORE/main/home.png)
@@ -135,3 +135,4 @@ Live demo: https://mkdirlove-ghibli-webstore.zeet.app/
 
 # PURCHASE HISTORY
 ![GHIBLI WEBSTORE](https://raw.githubusercontent.com/mkdirlove/GHIBLI-WEBSTORE/main/history.png)
+-->
