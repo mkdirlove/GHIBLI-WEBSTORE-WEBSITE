@@ -1,13 +1,6 @@
-<h1 align="center">
-  <br>
-  <a href="https://github.com/s0md3v/Arjun"><img src="https://raw.githubusercontent.com/mkdirlove/GHIBLI-WEBSTORE/main/logo.gif" height="400px" width="900px"></a>
-  <br>
-  GHIBLI WEBSTORE
-  <br>
-</h1>
-
-<h4 align="center">Our final project in Web Systems and Technology.</h4>
-
+<img src="https://raw.githubusercontent.com/mkdirlove/GHIBLI-WEBSTORE/main/logo.gif" height="400px" width="900px">
+# GHIBLI WEBSTORE
+Our final project in Web Systems and Technology.
 Live demo: https://mkdirlove-ghibli-webstore.zeet.app/
 
 # MEET OUR TEAM
