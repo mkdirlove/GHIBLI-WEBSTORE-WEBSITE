@@ -1,6 +1,8 @@
 <img src="https://raw.githubusercontent.com/mkdirlove/GHIBLI-WEBSTORE/main/logo.gif" height="400px" width="900px">
-# GHIBLI WEBSTORE
+# GHIBLI-WEBSTORE
+
 Our final project in Web Systems and Technology.
+
 Live demo: https://mkdirlove-ghibli-webstore.zeet.app/
 
 # MEET OUR TEAM
