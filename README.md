@@ -1,8 +1,6 @@
-<img src="https://raw.githubusercontent.com/mkdirlove/GHIBLI-WEBSTORE/main/logo.gif" height="400px" width="900px">
-
 <h1 align="center">
   <br>
-  <a href="https://github.com/s0md3v/Arjun"><img src="https://image.ibb.co/c618nq/arjun.png" alt="Arjun"></a>
+  <a href="https://github.com/s0md3v/Arjun"><img src="https://raw.githubusercontent.com/mkdirlove/GHIBLI-WEBSTORE/main/logo.gif" height="400px" width="900px"></a>
   <br>
   GHIBLI WEBSTORE
   <br>
