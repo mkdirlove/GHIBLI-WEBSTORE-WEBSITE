@@ -4,7 +4,7 @@
 
 Our final project in Web Systems and Technology 
 
-	LIVE DEMO: https://mkdirlove-ghibli-webstore.zeet.app/
+	LIVE DEMO: <a href="https://mkdirlove-ghibli-webstore.zeet.app/">https://mkdirlove-ghibli-webstore.zeet.app/</a>
 
 # MEET OUR TEAM
 
