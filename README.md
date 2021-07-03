@@ -6,13 +6,10 @@ Our final project in Web Systems and Technology
 
 Live demo: https://mkdirlove-ghibli-webstore.zeet.app/
 
-# GROUP MEMBERS
-	
-- [x] Abby De Guia
-- [x] Jayson San Buenaventura
-- [x] John Maynard Elec
-- [x] Jasper Cedrick Lorenzo
-- [x] Leomar Mangubat
+# MEET OUR TEAM
+
+<img src="https://raw.githubusercontent.com/mkdirlove/GHIBLI-WEBSTORE/main/dev-team.png" height="400px" width="900px">
+
       
 # FILES STRUCTURE
 
@@ -108,13 +105,13 @@ Live demo: https://mkdirlove-ghibli-webstore.zeet.app/
       		
 		https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-windows-amd64.zip
  
-
+<!-- 
 # PREVIEW
 
 ![GHIBLI WEBSTORE](https://raw.githubusercontent.com/mkdirlove/GHIBLI-WEBSTORE/main/home.png)
 
 
-<!-- 
+
 # LOGIN FORM
 
 ![GHIBLI WEBSTORE](https://raw.githubusercontent.com/mkdirlove/GHIBLI-WEBSTORE/main/login.png)
@@ -135,4 +132,13 @@ Live demo: https://mkdirlove-ghibli-webstore.zeet.app/
 
 # PURCHASE HISTORY
 ![GHIBLI WEBSTORE](https://raw.githubusercontent.com/mkdirlove/GHIBLI-WEBSTORE/main/history.png)
+
+
+
+- [x] Abby De Guia
+- [x] Jayson San Buenaventura
+- [x] John Maynard Elec
+- [x] Jasper Cedrick Lorenzo
+- [x] Leomar Mangubat
+
 -->
