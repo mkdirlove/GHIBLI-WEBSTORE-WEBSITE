@@ -79,7 +79,8 @@ Our final project in Web Systems and Technology
 	    ├── history.html
 	    ├── index.html
 	    ├── login.html
-	    └── new.html
+	    ├── new.html
+	    └── team.html
 
 
 # TECHNOLOGY USED
