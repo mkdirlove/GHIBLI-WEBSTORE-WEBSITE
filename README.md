@@ -8,7 +8,7 @@ Live demo: https://mkdirlove-ghibli-webstore.zeet.app/
 
 # MEET OUR TEAM
 
-<img src="https://raw.githubusercontent.com/mkdirlove/GHIBLI-WEBSTORE/main/dev-team.png">
+<img src="https://raw.githubusercontent.com/mkdirlove/GHIBLI-WEBSTORE/main/dev-team.png" width="900px">
 
       
 # FILES STRUCTURE
