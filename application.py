@@ -177,6 +177,11 @@ def new():
     # Render log in page
     return render_template("new.html")
 
+@app.route("/team/")
+def team():
+    # Render dev team page
+    return render_template("team.html")
+
 @app.route("/logged/", methods=["POST"] )
 def logged():
     # Get log in info from log in form
