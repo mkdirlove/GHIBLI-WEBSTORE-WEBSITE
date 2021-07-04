@@ -10,11 +10,11 @@ Our final project in Web Systems and Technology
 
 # MEET OUR TEAM
 
-- [x] Abby De Guia
-- [x] Jayson San Buenaventura
-- [x] John Maynard Elec
-- [x] Jasper Cedrick Lorenzo
-- [x] Leomar Mangubat
+- [x] Abby De Guia  			- Project Leader / Designer
+- [x] Jayson San Buenaventura 		- Developer / Web Pentester
+- [x] John Maynard Elec			- Developer / Designer
+- [x] Jasper Cedrick Lorenzo		- Designer
+- [x] Leomar Mangubat			- Designer
 
       
 # FILES STRUCTURE
