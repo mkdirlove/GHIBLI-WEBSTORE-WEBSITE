@@ -16,11 +16,11 @@ Our final project in Web Systems and Technology
    - [x] John Maynard Elec			
    - [x] Jasper Cedrick Lorenzo		
    - [x] Leomar Mangubat
-|   |   |
-|---|---|
-|---|---|
-|---|---|
-|---|---|
+   
+| Column 1       | Column 2     
+| :------------- | ----------: | 
+|  Cell Contents | More Stuff  |  
+| You Can Also   | Put Pipes In|  
       
 # TECHNOLOGY USED
 
