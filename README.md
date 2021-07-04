@@ -19,11 +19,11 @@ Our final project in Web Systems and Technology Column 1 | Column 2 | Column 3
    
 | **Members**       | **Roles**     | **Facebook** |
 | :------------- | :----------: | ----------: | 
-| *__Abby De Guia__* | _Project Leader_  | [Need](http://makeuseof.com) |
-| *__Jayson San Buenaventura__*   | _Developer_ | [Need](http://makeuseof.com) |
-| *__John Maynard Elec__*   | _Developer_ | [Need](http://makeuseof.com) |
-| *__Jasper Cedrick Lorenzo__*   | _Designer_ | [Need](http://makeuseof.com) |
-| *__Leomar Mangubat__*   | _Designer_ | [Need](http://makeuseof.com) |
+| *__Abby De Guia__* | _Project Leader / Designer_  | [Contact](https://web.facebook.com/abby.deguia.75) |
+| *__Jayson San Buenaventura__*   | _Developer / Web Pentester_ | [Contact](https://web.facebook.com/mkdirlove.git) |
+| *__John Maynard Elec__*   | _Developer / Desinger_ | [Contact](https://web.facebook.com/maynard.nga.pla3) |
+| *__Jasper Cedrick Lorenzo__*   | _Designer_ | [Contact](https://web.facebook.com/tunaynaidol) |
+| *__Leomar Mangubat__*   | _Designer_ | [Contact](https://web.facebook.com/leomar.mangubat) |
 
 
       
