@@ -19,7 +19,7 @@ Our final project in Web Systems and Technology
    
 | Column 1       | Column 2     
 | :------------- | ----------: | 
-|  Cell Contents | More Stuff  |  
+|  *__Look__* | More Stuff  |  
 | You Can Also   | Put Pipes In|  
       
 # TECHNOLOGY USED
