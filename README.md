@@ -2,7 +2,7 @@
 
 # GHIBLI WEBSTORE
 
-Our final project in Web Systems and Technology Column 1 | Column 2 | Column 3
+Our final E-Commerce website project in Web Systems and Technology.
 
 # LIVE DEMO 
 
