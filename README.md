@@ -2,7 +2,10 @@
 
 # GHIBLI WEBSTORE
 
-Our final project in Web Systems and Technology 
+Our final project in Web Systems and Technology Column 1 | Column 2 | Column 3
+--- | --- | ---
+**Things** | _Don't_ | [Need](http://makeuseof.com)
+To | *__Look__* | `Pretty`
 
 # LIVE DEMO 
 
@@ -19,8 +22,11 @@ Our final project in Web Systems and Technology
    
 | **Name**       | **Role**     | **Contact** |
 | :------------- | :----------: | ----------: | 
-| *__Abby De Guia__* | More Stuff  |   |
-| You Can Also   | Put Pipes In|  |
+| *__Abby De Guia__* | `Project Leader`  |  |
+| *__Jayson San Buenaventura__*   | `Developer` |  |
+| *__John Maynard Elec__*   | `Developer` |  |
+| *__Jasper Cedrick Lorenzo__*   | `Designer` |  |
+| *__Leomar Mangubat__*   | `Designer` |  |
 
 
       
