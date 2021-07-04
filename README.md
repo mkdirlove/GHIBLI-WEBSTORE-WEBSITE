@@ -11,12 +11,16 @@ Our final project in Web Systems and Technology
 
 # MEET OUR TEAM
 
-   - [x] Abby De Guia  		
+   - [x] Abby De Guia
    - [x] Jayson San Buenaventura 		
    - [x] John Maynard Elec			
    - [x] Jasper Cedrick Lorenzo		
    - [x] Leomar Mangubat
-
+|   |   |
+|---|---|
+|---|---|
+|---|---|
+|---|---|
       
 # TECHNOLOGY USED
 
