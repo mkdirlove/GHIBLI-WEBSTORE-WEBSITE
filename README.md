@@ -3,9 +3,6 @@
 # GHIBLI WEBSTORE
 
 Our final project in Web Systems and Technology Column 1 | Column 2 | Column 3
---- | --- | ---
-**Things** | _Don't_ | [Need](http://makeuseof.com)
-To | *__Look__* | `Pretty`
 
 # LIVE DEMO 
 
@@ -20,13 +17,13 @@ To | *__Look__* | `Pretty`
    - [x] Jasper Cedrick Lorenzo		
    - [x] Leomar Mangubat
    
-| **Members**       | **Role**     | **Contact** |
+| **Members**       | **Roles**     | **Facebook** |
 | :------------- | :----------: | ----------: | 
-| *__Abby De Guia__* | _Project Leader_  |  |
-| *__Jayson San Buenaventura__*   | _Developer_ |  |
-| *__John Maynard Elec__*   | _Developer_ |  |
-| *__Jasper Cedrick Lorenzo__*   | _Designer_ |  |
-| *__Leomar Mangubat__*   | _Designer_ |  |
+| *__Abby De Guia__* | _Project Leader_  | [Need](http://makeuseof.com) |
+| *__Jayson San Buenaventura__*   | _Developer_ | [Need](http://makeuseof.com) |
+| *__John Maynard Elec__*   | _Developer_ | [Need](http://makeuseof.com) |
+| *__Jasper Cedrick Lorenzo__*   | _Designer_ | [Need](http://makeuseof.com) |
+| *__Leomar Mangubat__*   | _Designer_ | [Need](http://makeuseof.com) |
 
 
       
