@@ -10,12 +10,6 @@ Our final project in Web Systems and Technology Column 1 | Column 2 | Column 3
 
 
 # MEET OUR TEAM
-
-   - [x] Abby De Guia
-   - [x] Jayson San Buenaventura 		
-   - [x] John Maynard Elec			
-   - [x] Jasper Cedrick Lorenzo		
-   - [x] Leomar Mangubat
    
 | **Members**       | **Roles**     | **Facebook** |
 | :------------- | :----------: | ----------: | 
@@ -158,4 +152,10 @@ Our final project in Web Systems and Technology Column 1 | Column 2 | Column 3
 	    └── team.html
 
 
+
+   - [x] Abby De Guia
+   - [x] Jayson San Buenaventura 		
+   - [x] John Maynard Elec			
+   - [x] Jasper Cedrick Lorenzo		
+   - [x] Leomar Mangubat
 -->
