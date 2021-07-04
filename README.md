@@ -17,10 +17,10 @@ Our final project in Web Systems and Technology
    - [x] Jasper Cedrick Lorenzo		
    - [x] Leomar Mangubat
    
-| **Name**       | **Role**     |             |
+| **Name**       | **Role**     | **Contact** |
 | :------------- | :----------: | ----------: | 
-|  *__Look__* | More Stuff  |  ----------: |
-| You Can Also   | Put Pipes In|  ----------: |
+| *__Abby De Guia__* | More Stuff  |   |
+| You Can Also   | Put Pipes In|  |
 
 
       
