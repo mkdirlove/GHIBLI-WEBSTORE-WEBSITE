@@ -20,13 +20,13 @@ To | *__Look__* | `Pretty`
    - [x] Jasper Cedrick Lorenzo		
    - [x] Leomar Mangubat
    
-| **Name**       | **Role**     | **Contact** |
+| **Members**       | **Role**     | **Contact** |
 | :------------- | :----------: | ----------: | 
-| *__Abby De Guia__* | `Project Leader`  |  |
-| *__Jayson San Buenaventura__*   | `Developer` |  |
-| *__John Maynard Elec__*   | `Developer` |  |
-| *__Jasper Cedrick Lorenzo__*   | `Designer` |  |
-| *__Leomar Mangubat__*   | `Designer` |  |
+| *__Abby De Guia__* | _Project Leader_  |  |
+| *__Jayson San Buenaventura__*   | _Developer_ |  |
+| *__John Maynard Elec__*   | _Developer_ |  |
+| *__Jasper Cedrick Lorenzo__*   | _Designer_ |  |
+| *__Leomar Mangubat__*   | _Designer_ |  |
 
 
       
