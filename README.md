@@ -18,6 +18,71 @@ Our final project in Web Systems and Technology
    - [x] Leomar Mangubat
 
       
+# TECHNOLOGY USED
+
+&nbsp;&nbsp;<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" />&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+
+
+# INSTALLATION & USAGE
+
+      $ git clone https://github.com/mkdirlove/GHIBLI-WEBSTORE.git
+      $ cd GHIBLI-WEBSTORE
+      $ python3 -m pip install -r requirements.txt
+      $ python3 server.py
+      
+      Open your web browser and navigate to  http://127.0.0.1:5000 to open the web app.
+      If you want to share it to your friends you can use Ngrok for port forwarding.
+      
+      
+# NGROK DOWNLOAD
+      
+      Linux machine:
+		
+		$ wget https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-linux-amd64.zip
+		$ unzip ngrok-stable-linux-amd64.zip
+		$ ./ngrok http 5000
+      
+      
+      Windows machine:
+      		
+		https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-windows-amd64.zip
+ 
+<!-- 
+# PREVIEW
+
+![GHIBLI WEBSTORE](https://raw.githubusercontent.com/mkdirlove/GHIBLI-WEBSTORE/main/home.png)
+
+
+
+# LOGIN FORM
+
+![GHIBLI WEBSTORE](https://raw.githubusercontent.com/mkdirlove/GHIBLI-WEBSTORE/main/login.png)
+
+
+
+# REGISTRATION FORM
+
+![GHIBLI WEBSTORE](https://raw.githubusercontent.com/mkdirlove/GHIBLI-WEBSTORE/main/reg.png)
+
+
+
+# MODAL CART
+
+![GHIBLI WEBSTORE](https://raw.githubusercontent.com/mkdirlove/GHIBLI-WEBSTORE/main/cart.png)
+
+
+
+# PURCHASE HISTORY
+![GHIBLI WEBSTORE](https://raw.githubusercontent.com/mkdirlove/GHIBLI-WEBSTORE/main/history.png)
+
+
+
+
+
+
+
+
+
 # FILES STRUCTURE
 
 	GHIBLI-WEBSTORE
@@ -83,62 +148,5 @@ Our final project in Web Systems and Technology
 	    ├── new.html
 	    └── team.html
 
-
-# TECHNOLOGY USED
-
-&nbsp;&nbsp;<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" />&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
-
-
-# INSTALLATION & USAGE
-
-      $ git clone https://github.com/mkdirlove/GHIBLI-WEBSTORE.git
-      $ cd GHIBLI-WEBSTORE
-      $ python3 -m pip install -r requirements.txt
-      $ python3 server.py
-      
-      Open your web browser and navigate to  http://127.0.0.1:5000 to open the web app.
-      If you want to share it to your friends you can use Ngrok for port forwarding.
-      
-      
-# NGROK DOWNLOAD
-      
-      Linux machine:
-		
-		$ wget https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-linux-amd64.zip
-		$ unzip ngrok-stable-linux-amd64.zip
-		$ ./ngrok http 5000
-      
-      
-      Windows machine:
-      		
-		https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-windows-amd64.zip
- 
-<!-- 
-# PREVIEW
-
-![GHIBLI WEBSTORE](https://raw.githubusercontent.com/mkdirlove/GHIBLI-WEBSTORE/main/home.png)
-
-
-
-# LOGIN FORM
-
-![GHIBLI WEBSTORE](https://raw.githubusercontent.com/mkdirlove/GHIBLI-WEBSTORE/main/login.png)
-
-
-
-# REGISTRATION FORM
-
-![GHIBLI WEBSTORE](https://raw.githubusercontent.com/mkdirlove/GHIBLI-WEBSTORE/main/reg.png)
-
-
-
-# MODAL CART
-
-![GHIBLI WEBSTORE](https://raw.githubusercontent.com/mkdirlove/GHIBLI-WEBSTORE/main/cart.png)
-
-
-
-# PURCHASE HISTORY
-![GHIBLI WEBSTORE](https://raw.githubusercontent.com/mkdirlove/GHIBLI-WEBSTORE/main/history.png)
 
 -->
