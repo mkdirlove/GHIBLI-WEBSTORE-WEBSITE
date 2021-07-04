@@ -8,13 +8,14 @@ Our final project in Web Systems and Technology
 
 	https://mkdirlove-ghibli-webstore.zeet.app/
 
+
 # MEET OUR TEAM
 
-- [x] Abby De Guia  			- Project Leader / Designer
-- [x] Jayson San Buenaventura 		- Developer / Web Pentester
-- [x] John Maynard Elec			- Developer / Designer
-- [x] Jasper Cedrick Lorenzo		- Designer
-- [x] Leomar Mangubat			- Designer
+   - [x] Abby De Guia  		
+   - [x] Jayson San Buenaventura 		
+   - [x] John Maynard Elec			
+   - [x] Jasper Cedrick Lorenzo		
+   - [x] Leomar Mangubat
 
       
 # FILES STRUCTURE
