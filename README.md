@@ -21,7 +21,7 @@ Our final E-Commerce website project in Web Systems and Technology.
       $ python3 -m pip install -r requirements.txt
       $ python3 server.py
       
-      Open your web browser and navigate to  http://127.0.0.1:5000 to open the web app.
+      Open your web browser and navigate to: http://127.0.0.1:5000
      
 
 # MEET OUR TEAM
