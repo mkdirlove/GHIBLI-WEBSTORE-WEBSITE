@@ -4,10 +4,9 @@
 
 Our final E-Commerce website project in Web Systems and Technology.
 
-<img src="https://raw.githubusercontent.com/mkdirlove/GHIBLI-WEBSTORE/main/deploy.png">
-
 # LIVE DEMO
 
+<img src="https://raw.githubusercontent.com/mkdirlove/GHIBLI-WEBSTORE/main/deploy.png">
 
 	https://mkdirlove-ghibli-webstore.zeet.app/
 
