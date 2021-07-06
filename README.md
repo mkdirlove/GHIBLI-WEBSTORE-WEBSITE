@@ -36,10 +36,10 @@ Our final e-commerce website project in Web Systems and Technology.
 
 <!--START_SECTION:waka-->
 ```text
-HTML          █████████████▓░░░░░░░░░░░   54.6  % 
-PYTHON        █████▓░░░░░░░░░░░░░░░░░░░   25.4  %
-CSS           ██▓░░░░░░░░░░░░░░░░░░░░░░   11.1  %
-JAVASCRIPT    █▓░░░░░░░░░░░░░░░░░░░░░░░   8.9  % 
+	HTML          		█████████████▓░░░░░░░░░░░   54.6  % 
+	PYTHON        		█████▓░░░░░░░░░░░░░░░░░░░   25.4  %
+	CSS           		██▓░░░░░░░░░░░░░░░░░░░░░░   11.1  %
+	JAVASCRIPT    		█▓░░░░░░░░░░░░░░░░░░░░░░░   8.9  % 
 ```
 <!--END_SECTION:waka-->
 	
