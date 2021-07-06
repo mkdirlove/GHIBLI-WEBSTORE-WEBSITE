@@ -28,17 +28,14 @@ Our final e-commerce website project in Web Systems and Technology.
 <br>
 	
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?color=3CFF00&size=30&width=500&lines=LIVE+DEMO)](https://git.io/typing-svg)
-	
 	https://mkdirlove-ghibli-webstore.zeet.app/
 
 
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?color=3CFF00&size=30&width=500&lines=TECHNOLOGY+USED)](https://git.io/typing-svg)
-
 &nbsp;&nbsp;<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" />&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
 
 	
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?color=3CFF00&size=30&width=500&lines=INSTALLATION+%26+USAGE)](https://git.io/typing-svg)
-
       $ git clone https://github.com/mkdirlove/GHIBLI-WEBSTORE.git
       $ cd GHIBLI-WEBSTORE
       $ python3 -m pip install -r requirements.txt
@@ -48,7 +45,6 @@ Our final e-commerce website project in Web Systems and Technology.
   	
 
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?color=3CFF00&size=30&width=500&lines=MEET+OUR+DEV+TEAM)](https://git.io/typing-svg)
-	 
 |  **Members**  | **Roles**     | **Facebook** |
 | :------------- | :----------: | ----------: | 
 | *__Abby De Guia__* | _Project Leader / Designer_  | [Contact me!](https://web.facebook.com/abby.deguia.75) |
