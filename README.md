@@ -4,12 +4,12 @@
 
 <!--<img src="https://raw.githubusercontent.com/mkdirlove/GHIBLI-WEBSTORE/main/logo.gif" height="400px" width="900px">-->
 
-
+<div class="center">
 # GHIBLI WEBSTORE
 
 
 Our final e-commerce website project in Web Systems and Technology.
-
+</div>
 
 <details>
 	<summary>𝗖𝗟𝗜𝗖𝗞 𝗛𝗘𝗥𝗘 𝗙𝗢𝗥 𝗠𝗢𝗥𝗘 𝗜𝗡𝗙𝗢𝗥𝗠𝗔𝗧𝗜𝗢𝗡</summary>
