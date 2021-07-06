@@ -1,4 +1,4 @@
-<div align="center">
+
 <img src="https://raw.githubusercontent.com/mkdirlove/GHIBLI-WEBSTORE/main/deploy.png">
 
 <!--<img src="https://raw.githubusercontent.com/mkdirlove/GHIBLI-WEBSTORE/main/logo.gif" height="400px" width="900px">-->
@@ -9,9 +9,10 @@ Our final E-Commerce website project in Web Systems and Technology.
 
 <details>
 <!--<summary>𝗖𝗟𝗜𝗖𝗞 𝗧𝗢 𝗦𝗛𝗢𝗪 𝗚𝗜𝗧𝗛𝗨𝗕 𝗦𝗧𝗔𝗧𝗦 & 𝗦𝗢𝗖𝗜𝗔𝗟 𝗠𝗘𝗗𝗜𝗔</summary>-->
-	<center><summary>𝗖𝗟𝗜𝗖𝗞 𝗛𝗘𝗥𝗘 𝗙𝗢𝗥 𝗠𝗢𝗥𝗘 𝗜𝗡𝗙𝗢𝗥𝗠𝗔𝗧𝗜𝗢𝗡</summary></center>
+	<div align="center">
+	<summary>𝗖𝗟𝗜𝗖𝗞 𝗛𝗘𝗥𝗘 𝗙𝗢𝗥 𝗠𝗢𝗥𝗘 𝗜𝗡𝗙𝗢𝗥𝗠𝗔𝗧𝗜𝗢𝗡</summary>
+	</div>
 <br>
-</div>
 	
 # LIVE DEMO
 
