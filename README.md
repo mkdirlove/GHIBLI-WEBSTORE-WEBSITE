@@ -19,7 +19,7 @@
 
 -->
 
-[![Typing SVG](http://readme-typing-svg.herokuapp.com?color=DE3AF7&size=30&width=500&lines=WELCOME+TO+GHIBLI-WEBSTORE;Developed+with+%3C3+by%3A+;Jayson+San+Buenaventura;Abby+De+Guia;John+Maynard+Elec;Jasper+Cedrick+Lorenzo;Leomar+Mangubat)](https://git.io/typing-svg)
+[![Typing SVG](http://readme-typing-svg.herokuapp.com?color=DE3AF7&size=30&width=500&lines=WELCOME+TO+GHIBLI-WEBSTORE;Developed+with+🖤+by%3A+;Jayson+San+Buenaventura;Abby+De+Guia;John+Maynard+Elec;Jasper+Cedrick+Lorenzo;Leomar+Mangubat)](https://git.io/typing-svg)
 
 Our final e-commerce website project in Web Systems and Technology.
 
