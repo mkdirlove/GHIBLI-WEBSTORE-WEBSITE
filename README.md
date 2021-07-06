@@ -15,7 +15,6 @@ Our final e-commerce website project in Web Systems and Technology.
 	<summary>𝗖𝗟𝗜𝗖𝗞 𝗛𝗘𝗥𝗘 𝗙𝗢𝗥 𝗠𝗢𝗥𝗘 𝗜𝗡𝗙𝗢𝗥𝗠𝗔𝗧𝗜𝗢𝗡</summary>
 <br>
 	
-	
 # LIVE DEMO
 
 	https://mkdirlove-ghibli-webstore.zeet.app/
