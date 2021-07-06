@@ -22,8 +22,7 @@ Our final E-Commerce website project in Web Systems and Technology.
       $ python3 server.py
       
       Open your web browser and navigate to  http://127.0.0.1:5000 to open the web app.
-      If you want to share it to your friends you can use Ngrok for port forwarding.
-      
+     
 
 # MEET OUR TEAM
    
