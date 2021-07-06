@@ -6,7 +6,6 @@
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=30&width=500&lines=WELCOME+TO+GHIBLI-WEBSTORE)](https://git.io/typing-svg)
-g-svg)
 
 Our final e-commerce website project in Web Systems and Technology.
 
