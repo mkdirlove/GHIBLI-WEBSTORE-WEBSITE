@@ -10,7 +10,10 @@ Our final E-Commerce website project in Web Systems and Technology.
 
 	https://mkdirlove-ghibli-webstore.zeet.app/
 
-
+<details>
+<!--<summary>𝗖𝗟𝗜𝗖𝗞 𝗧𝗢 𝗦𝗛𝗢𝗪 𝗚𝗜𝗧𝗛𝗨𝗕 𝗦𝗧𝗔𝗧𝗦 & 𝗦𝗢𝗖𝗜𝗔𝗟 𝗠𝗘𝗗𝗜𝗔</summary>-->
+  <summary>𝗖𝗟𝗜𝗖𝗞 𝗛𝗘𝗥𝗘 𝗙𝗢𝗥 𝗠𝗢𝗥𝗘 𝗜𝗡𝗙𝗢𝗥𝗠𝗔𝗧𝗜𝗢𝗡</summary>
+  <br>
 # TECHNOLOGY USED
 
 &nbsp;&nbsp;<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" />&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
@@ -36,5 +39,5 @@ Our final E-Commerce website project in Web Systems and Technology.
 | *__Jasper Cedrick Lorenzo__*   | _Designer_ | [Contact me!](https://web.facebook.com/tunaynaidol) |
 | *__Leomar Mangubat__*   | _Designer_ | [Contact me!](https://web.facebook.com/leomar.mangubat) |
 
-
+</details>
       
