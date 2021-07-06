@@ -50,6 +50,15 @@ Our final e-commerce website project in Web Systems and Technology.
       Open your web browser and navigate to: http://127.0.0.1:5000
   	
 
+[![Typing SVG](http://readme-typing-svg.herokuapp.com?color=3CFF00&size=30&lines=TODO)](https://git.io/typing-svg)
+	
+- [ ] User profile page 
+- [ ] Edit user profile page
+
+
+[![Typing SVG](http://readme-typing-svg.herokuapp.com?color=FFE500&size=30&lines=IN+PROGRESS)](https://git.io/typing-svg)
+
+- [ ] Admin Panel / Admin Dashboard
 	
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?color=3CFF00&size=30&width=500&lines=MEET+OUR+DEV+TEAM)](https://git.io/typing-svg)
 	
@@ -61,5 +70,7 @@ Our final e-commerce website project in Web Systems and Technology.
 | *__Jasper Cedrick Lorenzo__*   | _Designer_ | [Contact me!](https://web.facebook.com/tunaynaidol) |
 | *__Leomar Mangubat__*   | _Designer_ | [Contact me!](https://web.facebook.com/leomar.mangubat) |
 
+
+	
 </details>
 
