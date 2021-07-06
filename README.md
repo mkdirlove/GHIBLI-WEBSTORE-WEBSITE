@@ -4,12 +4,12 @@
 
 <!--<img src="https://raw.githubusercontent.com/mkdirlove/GHIBLI-WEBSTORE/main/logo.gif" height="400px" width="900px">-->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Welcome+to+Ghibli-Webstore;Made+with+Python;Thank+to+you...)](https://git.io/typing-svg)
-
 
 # GHIBLI WEBSTORE
 
 Our final e-commerce website project in Web Systems and Technology.
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Out+final+e-commerce+website+project+in+Web+Systems+and+Technology.;Made+with+Python;Thank+to+you...)](https://git.io/typing-svg)
 
 <details>
 	<summary>𝗖𝗟𝗜𝗖𝗞 𝗛𝗘𝗥𝗘 𝗙𝗢𝗥 𝗠𝗢𝗥𝗘 𝗜𝗡𝗙𝗢𝗥𝗠𝗔𝗧𝗜𝗢𝗡</summary>
