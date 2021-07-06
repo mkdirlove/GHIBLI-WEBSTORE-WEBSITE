@@ -1,3 +1,4 @@
+<div align="center">
 <img src="https://raw.githubusercontent.com/mkdirlove/GHIBLI-WEBSTORE/main/deploy.png">
 
 <!--<img src="https://raw.githubusercontent.com/mkdirlove/GHIBLI-WEBSTORE/main/logo.gif" height="400px" width="900px">-->
@@ -43,4 +44,4 @@ Our final E-Commerce website project in Web Systems and Technology.
 | *__Leomar Mangubat__*   | _Designer_ | [Contact me!](https://web.facebook.com/leomar.mangubat) |
 
 </details>
-      
+</div>
