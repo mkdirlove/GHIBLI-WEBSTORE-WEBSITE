@@ -4,6 +4,8 @@
 
 <!--<img src="https://raw.githubusercontent.com/mkdirlove/GHIBLI-WEBSTORE/main/logo.gif" height="400px" width="900px">-->
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Welcome+to+Ghibli-Webstore;Made+with+Python;Thank+to+you...)](https://git.io/typing-svg)
+
 
 # GHIBLI WEBSTORE
 
