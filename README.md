@@ -59,6 +59,7 @@ Our final e-commerce website project in Web Systems and Technology.
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?color=FFE500&size=30&lines=IN+PROGRESS)](https://git.io/typing-svg)
 
 - [ ] Admin Panel / Admin Dashboard
+- [ ] Meet our team page
 	
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?color=3CFF00&size=30&width=500&lines=MEET+OUR+DEV+TEAM)](https://git.io/typing-svg)
 	
