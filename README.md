@@ -26,7 +26,7 @@ Our final E-Commerce website project in Web Systems and Technology.
 
 # MEET OUR TEAM
    
-| **Members**       | **Roles**     | **Facebook** |
+|  **Members**  | **Roles**     | **Facebook** |
 | :------------- | :----------: | ----------: | 
 | *__Abby De Guia__* | _Project Leader / Designer_  | [Contact me!](https://web.facebook.com/abby.deguia.75) |
 | *__Jayson San Buenaventura__*   | _Developer / Web Pentester_ | [Contact me!](https://web.facebook.com/mkdirlove.git) |
