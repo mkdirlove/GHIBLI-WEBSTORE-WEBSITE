@@ -32,8 +32,17 @@ Our final e-commerce website project in Web Systems and Technology.
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?color=3CFF00&size=30&width=500&lines=LIVE+DEMO)](https://git.io/typing-svg)
 	
 	https://mkdirlove-ghibli-webstore.zeet.app/
+	
 
-
+<!--START_SECTION:waka-->
+```text
+HTML          █████████████▓░░░░░░░░░░░   54.6  % 
+PYTHON        █████▓░░░░░░░░░░░░░░░░░░░   25.4  %
+CSS           ██▓░░░░░░░░░░░░░░░░░░░░░░   11.1  %
+JAVASCRIPT    █▓░░░░░░░░░░░░░░░░░░░░░░░   8.9  % 
+```
+<!--END_SECTION:waka-->
+	
 	
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?color=3CFF00&size=30&width=500&lines=TECHNOLOGY+USED)](https://git.io/typing-svg)
 	
