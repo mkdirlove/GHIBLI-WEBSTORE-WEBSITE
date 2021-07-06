@@ -29,7 +29,7 @@ Our final E-Commerce website project in Web Systems and Technology.
 |  **Members**  | **Roles**     | **Facebook** |
 | :------------- | :----------: | ----------: | 
 | *__Abby De Guia__* | _Project Leader / Designer_  | [Contact me!](https://web.facebook.com/abby.deguia.75) |
-| *__Jayson San Buenaventura__*   | _Developer / Web Pentester_ | [Contact me!](https://web.facebook.com/mkdirlove.git) |
+| *__Jayson San Buenaventura__*   | _Developer / Desinger_ | [Contact me!](https://web.facebook.com/mkdirlove.git) |
 | *__John Maynard Elec__*   | _Developer / Desinger_ | [Contact me!](https://web.facebook.com/maynard.nga.pla3) |
 | *__Jasper Cedrick Lorenzo__*   | _Designer_ | [Contact me!](https://web.facebook.com/tunaynaidol) |
 | *__Leomar Mangubat__*   | _Designer_ | [Contact me!](https://web.facebook.com/leomar.mangubat) |
