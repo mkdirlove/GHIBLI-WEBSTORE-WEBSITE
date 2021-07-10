@@ -39,7 +39,7 @@ Our final e-commerce website project in Web Systems and Technology.
 &nbsp;&nbsp;<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" />&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
 
 
-# INSTALLING SQLITE ON WINDOWS
+[![Typing SVG](http://readme-typing-svg.herokuapp.com?color=3CFF00&size=30&width=700&lines=INSTALLING+SQLITE+ON+WINDOWS)](https://git.io/typing-svg)
 
 Step 1 − Go to SQLite download page: https://www.sqlite.org/download.html and download precompiled binaries from Windows section.
 
@@ -56,7 +56,7 @@ Step 4 − Add C:\>sqlite in your PATH environment variable and finally go to th
 	Enter SQL statements terminated with a ";"
 	sqlite>
 
-# INSTALLLING SQLITE ON LINUX
+[![Typing SVG](http://readme-typing-svg.herokuapp.com?color=3CFF00&size=30&width=700&lines=INSTALLING+SQLITE+ON+LINUX)](https://git.io/typing-svg)
 
 Today, almost all the flavours of Linux OS are being shipped with SQLite. So you just issue the following command to check if you already have SQLite installed on your machine.
 
@@ -75,7 +75,7 @@ Step 2 − Run the following command −
 	$sudo apt update && sudo apt install sqlite3
 
 	
-# INSTALLING SQLITE ON LINUX FROM SOURCE
+[![Typing SVG](http://readme-typing-svg.herokuapp.com?color=3CFF00&size=30&width=700&lines=INSTALLING+SQLITE+ON+LINUX+FROM+SOURCE)](https://git.io/typing-svg)
 	
 Today, almost all the flavours of Linux OS are being shipped with SQLite. So you just issue the following command to check if you already have SQLite installed on your machine.
 
@@ -100,7 +100,7 @@ Step 2 − Run the following command −
 The above command will end with SQLite installation on your Linux machine. Which you can verify as explained above.
 
 
-# INSTALLING SQLITE ON MAC OS
+[![Typing SVG](http://readme-typing-svg.herokuapp.com?color=3CFF00&size=30&width=700&lines=INSTALLING+SQLITE+ON+MAC+OS)](https://git.io/typing-svg)
 
 Though the latest version of Mac OS X comes pre-installed with SQLite but if you do not have installation available then just follow these following steps −
 
