@@ -1,5 +1,5 @@
 
-<img src="https://raw.githubusercontent.com/mkdirlove/GHIBLI-WEBSTORE/main/logo2.gif" height="250px" width="800px">
+<img src="https://raw.githubusercontent.com/mkdirlove/GHIBLI-WEBSTORE/main/logo2.gif" height="250px" width="850px">
 
 
 <!--<img src="https://raw.githubusercontent.com/mkdirlove/GHIBLI-WEBSTORE/main/logo.gif" height="400px" width="900px">
