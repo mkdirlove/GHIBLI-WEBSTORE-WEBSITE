@@ -41,12 +41,12 @@ Our final e-commerce website project in Web Systems and Technology.
 
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?color=3CFF00&size=30&width=500&lines=INSTALLATION+%26+USAGE)](https://git.io/typing-svg)
 	
-     $ git clone https://github.com/mkdirlove/GHIBLI-WEBSTORE.git
-     $ cd GHIBLI-WEBSTORE
-     $ python3 -m pip install -r requirements.txt
-     $ python3 server.py
+    $ git clone https://github.com/mkdirlove/GHIBLI-WEBSTORE.git
+    $ cd GHIBLI-WEBSTORE
+    $ python3 -m pip install -r requirements.txt
+    $ python3 server.py
       
-      Open your web browser and navigate to: http://127.0.0.1:5000/ or http://<your local ip>:5000/
+    Open your web browser and navigate to: http://127.0.0.1:5000/ or http://<your local ip>:5000/
   	
 
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?color=3CFF00&size=30&lines=TODO)](https://git.io/typing-svg)
